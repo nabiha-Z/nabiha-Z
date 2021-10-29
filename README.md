@@ -1,4 +1,4 @@
-<p style="text-align: center;"><img  style="margin-left: 50px;" width="50%" height="auto" src="vector.png" /></p>
+<h1 align='center' ><img  style="margin-left: 50px;" width="50%" height="auto" src="vector.png" /></h1>
 
 <h1 align='center' >Hi, I'm Nabiha Zubair</h1>
 <h3 align='center'>I'm a passionate Mern Stack and React Native Developer from Pakistan.</h3>
