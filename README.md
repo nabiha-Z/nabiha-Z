@@ -1,10 +1,11 @@
-<a href="#" ><img width="100%" height="auto" src="vector.png" height="100px"/></a>
+<a href="#" ><img style="display: block;
+  margin-left: auto;
+  margin-right: auto;" width="50%" height="auto" src="vector.png" /></a>
 
-<h1 align="center">Hi, I'm Nabiha Zubair</h1>
-<h3 align="center">I'm a passionate Mern Stack and React Native Developer from Pakistan.</h3>
+<h1 align='center' >Hi, I'm Nabiha Zubair</h1>
+<h3 align='center'>I'm a passionate Mern Stack and React Native Developer from Pakistan.</h3>
 
-
-## 🙋‍♂️ About Me
+<h2  style="margin-top: 50px"> 🙋‍♂️ About Me</h2>
 
 - 🔭 I’m currently working on **Service Provider Mobile Application**
 
