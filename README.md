@@ -1,4 +1,4 @@
-<a href="#" ><img width="100%" height="auto" src="work.gif" height="175px"/></a>
+<a href="#" ><img width="100%" height="auto" src="vector.png" height="100px"/></a>
 
 <h1 align="center">Hi, I'm Nabiha Zubair</h1>
 <h3 align="center">I'm a passionate Mern Stack and React Native Developer from Pakistan.</h3>
