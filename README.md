@@ -5,16 +5,13 @@
 
 <h2  style="margin-top: 50px"> 🙋‍♂️ About Me</h2>
 
-- 🔭 I’m currently working on **Service Provider Mobile Application**
+- 🔭 I’m currently working as **Software Engineer at Devsinc**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Web sockets**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-
 - 📫 How to reach me **nabihazubair100@gmail.com**
-
-- ⚡ Fun fact **I often indulge myself in creative work like painting, sketching and UI desiging**
 
 ## 🚀 Languages and Tools:
 
