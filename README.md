@@ -1,5 +1,3 @@
-<h1 align='center' ><img  style="margin-left: 50px;" width="50%" height="auto" src="vector.png" /></h1>
-
 <h1 align='center' >Hi, I'm Nabiha Zubair</h1>
 <h3 align='center'>I'm a passionate Mern Stack and React Native Developer from Pakistan.</h3>
 
@@ -47,7 +45,6 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/nabiha-Z/github-readme-stats"><img alt="Nabiha Zubair's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nabiha-Z&show_icons=true&count_private=true&theme=nord&hide_border=true&bg_color=172637" /></a>
   <a href="https://github.com/nabiha-Z/github-readme-stats"><img alt="Nabiha Zubair Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabiha-Z&langs_count=8&count_private=true&layout=compact&theme=nord&hide_border=true&bg_color=172637" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
