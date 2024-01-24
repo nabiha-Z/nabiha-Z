@@ -53,10 +53,3 @@
 
 <br/>
 <br/>
-
-
-## ❤ Views and Followers
-<a href="https://github.com/nabiha-Z/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=nabiha-Z">
-</a>
-<a href="https://github.com/nabiha-Z?tab=followers"><img src="https://img.shields.io/github/followers/nabiha-Z?label=Followers&style=social" alt="GitHub Badge"></a>
