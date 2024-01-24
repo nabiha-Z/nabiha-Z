@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **nabihazubair100@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/nabiha-zubair**
 
 ## 🚀 Languages and Tools:
 
