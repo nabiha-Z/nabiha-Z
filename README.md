@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Software Engineer at Devsinc**
 
-- 🌱 I’m currently learning **Web sockets**
+- 🌱 I’m currently working on **NextJs Optimization Techniques**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
