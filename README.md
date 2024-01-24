@@ -1,5 +1,5 @@
 <h1 align='center' >Hi, I'm Nabiha Zubair</h1>
-<h3 align='center'>I am an enthusiastic software engineer with specialized skills in web development using the MERN stack and Django, as well as mobile development through React Native Expo.</h3>
+<h5 align='center'>I am an enthusiastic software engineer with specialized skills in web development using the MERN stack and Django, as well as mobile development through React Native Expo.</h3>
 
 <h2  style="margin-top: 50px"> 🙋‍♂️ About Me</h2>
 
