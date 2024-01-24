@@ -1,11 +1,11 @@
 <h1 align='center' >Hi, I'm Nabiha Zubair</h1>
-<h3 align='center'>I'm a passionate Mern Stack and React Native Developer from Pakistan.</h3>
+<h3 align='center'>I am an enthusiastic software engineer with specialized skills in web development using the MERN stack and Django, as well as mobile development through React Native Expo.</h3>
 
 <h2  style="margin-top: 50px"> 🙋‍♂️ About Me</h2>
 
 - 🔭 I’m currently working as **Software Engineer at Devsinc**
 
-- 🌱 I’m currently working on **NextJs Optimization Techniques**
+- 🌱 I’m currently working on **NextJs Optimization Techniques and Dockerization**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
