@@ -32,20 +32,11 @@
     <a href="https://www.docker.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://tailwindcss.com" target="_blank"> <img  src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="tailwind" width="40" height="40"/> </a>
-    
-    
-    
-    
+    <a href="https://tailwindcss.com" target="_blank"> <img  src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="tailwind" width="40" height="40"/> </a>   
 </p>
 
 <br/>
 
-<p align="left">
-    <a href="https://github.com/nabiha-Z/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nabiha-Z&theme=nord&hide_border=true&stroke=455364&background=172637"/>
-    </a>
-</p>
 
 ## 📊 My Github Stats
 
